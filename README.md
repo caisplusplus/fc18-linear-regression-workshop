@@ -5,7 +5,7 @@ Corresponding written lesson: [Linear Regression](http://caisplusplus.usc.edu/bl
 
 ## Workshop Outline
 
-### Part 1 (LinReg.ipynb): 
+### Part 1 (LinReg.ipynb): Machine Learning Fundamentals
 1. Import Boston housing price data (from sklearn)
 1. Implement linear regression in numpy (hypothesis, cost, gradient descent)
 3. Visualize model using matplotlib
