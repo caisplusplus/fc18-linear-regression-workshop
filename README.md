@@ -1,5 +1,5 @@
 # linreg-workshop
-Linear Regression Workshop for CAIS++ (Feb. 26, 2018)
+Linear Regression Workshop for CAIS++ (Sep. 24, 2018)
 
 Corresponding written lesson: [Linear Regression](http://caisplusplus.usc.edu/blog/curriculum/lesson2)
 
@@ -15,7 +15,7 @@ Corresponding written lesson: [Linear Regression](http://caisplusplus.usc.edu/bl
 
 ### If you have errors in the jupyter notebook regarding dependencies, you might have to install them using conda or pip. Please refer here for more help: https://conda.io/docs/user-guide/tasks/manage-pkgs.html
 
-8. To get credit for completing the workshop, create an issue in your repository and tag 'Raghav-Maheshwari' so that I can check you off.
+8. To get credit for completing the workshop, create an issue in your repository and tag 'bhahn16' so that I can check you off.
 (https://help.github.com/articles/creating-an-issue/)
 
 
